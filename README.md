@@ -44,121 +44,14 @@ I know when i started learning programming i don't know these symbol names, so i
 | `॥`    | OR   |
 | `!`    | Not  |
 
-Note : `Comming Soon Keyboard Special Characters`
+## `Keyboard Special Characters`
 
 <table class="mtable3 tab">
-<tbody><tr>
-<th>Key/symbol</th>
+<tr>
+<th>Symbol</th>
 <th>Explanation</th>
 </tr>
-<tr class="tcw" onclick="DoNav('/jargon/w/winkey.htm');">
-<td class="bld ce">Windows</td>
-<td>PC keyboards have a <a><kbd class="winkey">Windows key</kbd></a> that looks like a four-pane, wavy window.</td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/c/commkey.htm');">
-<td class="bld ce">Command</td>
-<td>Apple Mac computers have a <a><kbd class="cmd">Command</kbd></a> with a symbol resembling a cloverleaf.</td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/m/menu.htm');">
-<td class="bld ce">Menu</td>
-<td>PC keyboards also have a <a>Menu key</a> that looks like a <a>cursor</a> pointing to a <a>menu</a>.</td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/e/esc.htm');">
-<td class="bld ce">Esc</td>
-<td><a>Esc (escape) key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/issues/ch000306.htm');">
-<td class="bld ce">F1 - F12</td>
-<td><a>What are the F1 through F12 keys?</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('issues/ch000306.htm#f13-f24');">
-<td class="bld ce">F13 - F24</td>
-<td><a>Information about the F13 through F24 keyboard keys.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/t/tab.htm');">
-<td class="bld ce">Tab</td>
-<td><a>Tab key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/c/capslock.htm');">
-<td class="bld ce">Caps lock</td>
-<td><a>Caps lock key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/s/shiftkey.htm');">
-<td class="bld ce">Shift</td>
-<td><a>Shift key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/c/ctrl.htm');">
-<td class="bld ce">Ctrl</td>
-<td><a>Control key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/f/fn.htm');">
-<td class="bld ce">Fn</td>
-<td><a>Function key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/a/alt.htm');">
-<td class="bld ce">Alt</td>
-<td><a>Alternate key</a> (PC only; Mac users have an <a>Option key</a>).</td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/s/spacebar.htm');">
-<td class="bld ce">Spacebar</td>
-<td><a>Spacebar key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/a/arrowkey.htm');">
-<td class="bld ce">Arrows</td>
-<td>Up, down, left, right <a>Arrow keys.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/b/backspac.htm');">
-<td class="bld ce">Back Space</td>
-<td><a>Back space (or Backspace) key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/d/delete.htm');">
-<td class="bld ce">Delete</td>
-<td><a>Delete or Del key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/e/enterkey.htm');">
-<td class="bld ce">Enter</td>
-<td><a>Enter key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/p/printkey.htm');">
-<td class="bld ce">Prt Scrn</td>
-<td><a>Print Screen key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/s/scrolock.htm');">
-<td class="bld ce">Scroll Lock</td>
-<td><a>Scroll Lock key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/p/pausekey.htm');">
-<td class="bld ce">Pause</td>
-<td><a>Pause key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/b/break.htm');">
-<td class="bld ce">Break</td>
-<td><a>Break key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/i/insertke.htm');">
-<td class="bld ce">Insert</td>
-<td><a>Insert key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/h/homekey.htm');">
-<td class="bld ce">Home</td>
-<td><a>Home key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/p/pgupkey.htm');">
-<td class="bld ce">Page up</td>
-<td><a>Page up or pg up key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/p/pgdnkey.htm');">
-<td class="bld ce">Page down</td>
-<td><a>Page down or pg dn key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/e/endkey.htm');">
-<td class="bld ce">End</td>
-<td><a>End key.</a></td>
-</tr>
-<tr class="tcw" onclick="DoNav('/jargon/n/numlock.htm');">
-<td class="bld ce">Num Lock</td>
-<td><a>Num Lock key.</a></td>
-</tr>
+<tbody>
 <tr class="tcw" onclick="DoNav('/jargon/t/tilde.htm');">
 <td class="bld ce">~</td>
 <td><a>Tilde.</a></td>
@@ -312,3 +205,120 @@ Note : `Comming Soon Keyboard Special Characters`
 <td><a>Question mark.</a></td>
 </tr>
 </tbody></table>
+
+## Other
+
+<table>
+<tr>
+<th>Symbol</th>
+<th>Explanation</th>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/w/winkey.htm');">
+<td class="bld ce">Windows</td>
+<td>PC keyboards have a <a><kbd class="winkey">Windows key</kbd></a> that looks like a four-pane, wavy window.</td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/c/commkey.htm');">
+<td class="bld ce">Command</td>
+<td>Apple Mac computers have a <a><kbd class="cmd">Command</kbd></a> with a symbol resembling a cloverleaf.</td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/m/menu.htm');">
+<td class="bld ce">Menu</td>
+<td>PC keyboards also have a <a>Menu key</a> that looks like a <a>cursor</a> pointing to a <a>menu</a>.</td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/e/esc.htm');">
+<td class="bld ce">Esc</td>
+<td><a>Esc (escape) key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/issues/ch000306.htm');">
+<td class="bld ce">F1 - F12</td>
+<td><a>What are the F1 through F12 keys?</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('issues/ch000306.htm#f13-f24');">
+<td class="bld ce">F13 - F24</td>
+<td><a>Information about the F13 through F24 keyboard keys.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/t/tab.htm');">
+<td class="bld ce">Tab</td>
+<td><a>Tab key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/c/capslock.htm');">
+<td class="bld ce">Caps lock</td>
+<td><a>Caps lock key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/s/shiftkey.htm');">
+<td class="bld ce">Shift</td>
+<td><a>Shift key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/c/ctrl.htm');">
+<td class="bld ce">Ctrl</td>
+<td><a>Control key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/f/fn.htm');">
+<td class="bld ce">Fn</td>
+<td><a>Function key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/a/alt.htm');">
+<td class="bld ce">Alt</td>
+<td><a>Alternate key</a> (PC only; Mac users have an <a>Option key</a>).</td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/s/spacebar.htm');">
+<td class="bld ce">Spacebar</td>
+<td><a>Spacebar key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/a/arrowkey.htm');">
+<td class="bld ce">Arrows</td>
+<td>Up, down, left, right <a>Arrow keys.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/b/backspac.htm');">
+<td class="bld ce">Back Space</td>
+<td><a>Back space (or Backspace) key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/d/delete.htm');">
+<td class="bld ce">Delete</td>
+<td><a>Delete or Del key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/e/enterkey.htm');">
+<td class="bld ce">Enter</td>
+<td><a>Enter key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/p/printkey.htm');">
+<td class="bld ce">Prt Scrn</td>
+<td><a>Print Screen key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/s/scrolock.htm');">
+<td class="bld ce">Scroll Lock</td>
+<td><a>Scroll Lock key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/p/pausekey.htm');">
+<td class="bld ce">Pause</td>
+<td><a>Pause key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/b/break.htm');">
+<td class="bld ce">Break</td>
+<td><a>Break key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/i/insertke.htm');">
+<td class="bld ce">Insert</td>
+<td><a>Insert key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/h/homekey.htm');">
+<td class="bld ce">Home</td>
+<td><a>Home key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/p/pgupkey.htm');">
+<td class="bld ce">Page up</td>
+<td><a>Page up or pg up key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/p/pgdnkey.htm');">
+<td class="bld ce">Page down</td>
+<td><a>Page down or pg dn key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/e/endkey.htm');">
+<td class="bld ce">End</td>
+<td><a>End key.</a></td>
+</tr>
+<tr class="tcw" onclick="DoNav('/jargon/n/numlock.htm');">
+<td class="bld ce">Num Lock</td>
+<td><a>Num Lock key.</a></td>
+</tr>
+<table>
