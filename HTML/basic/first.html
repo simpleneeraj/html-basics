@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Our First Website</title>
-
     <style>
       .headingClass {
         /* This is hex color type */
@@ -14,11 +13,18 @@
         color: rgb(244, 67, 54);
         font-size: px;
         font-family: system-ui;
+        width: fit-content;
       }
 
+      /* Gallery Style */
+      .galley {
+        display: flex;
+        gap: 20px;
+      }
       .beautifulImage {
-        height: 100%;
-        width: 100%;
+        height: 200px;
+        border-radius: 10px;
+        /* Bottom have 1st priority */
       }
     </style>
   </head>
@@ -75,19 +81,29 @@
       <span>But i am Inline</span>
     </h1>
 
-    <img
-      src="https://images.unsplash.com/photo-1644982647708-0b2cc3d910b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
-      alt="hero image"
-      height="200"
-      width="200"
-      class="beautifulImage"
-    />
+    <div class="gallery">
+      <img
+        src="https://images.unsplash.com/photo-1644982647708-0b2cc3d910b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+        alt="hero image"
+        class="beautifulImage"
+      />
+      <img
+        src="https://images.unsplash.com/photo-1656094804202-241d76dd7392?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+        alt="hero image"
+        class="beautifulImage"
+      />
+      <img
+        src="https://images.unsplash.com/photo-1644982653424-1bfed7f972a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=789&q=80"
+        alt="hero image"
+        class="beautifulImage"
+      />
+    </div>
 
     <div>
       <button>Click Here</button>
       <button>Submit</button>
     </div>
-
+    <!-- JSX from React Website -->
     <h1 className="greeting">Hello, world!</h1>
   </body>
 </html>
