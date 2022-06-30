@@ -1,0 +1,22 @@
+/* METHOD 1 */
+/* flex  */
+.container {
+  height: 100vh;
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: row;
+  /* width: 100%; */
+}
+
+.left {
+  width: 30%;
+  display: flex;
+  place-content: center;
+  /* border: 2px solid rgb(33, 185, 93); */
+  background: rgb(33, 185, 93);
+}
+.right {
+  width: 70%;
+  /* border: 2px solid rgb(107, 35, 195); */
+  background: rgb(107, 35, 195);
+}

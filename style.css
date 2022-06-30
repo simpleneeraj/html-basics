@@ -1,0 +1,51 @@
+/* Hello CSS */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.landing {
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  justify-items: center;
+  gap: 20px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),
+    url("https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.landing h1 {
+  font-size: 4rem;
+  color: rgb(255, 255, 255);
+}
+
+.landing p {
+  color: rgb(248, 248, 248);
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.landing button {
+  padding: 15px 20px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  min-width: 150px;
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.75);
+}
